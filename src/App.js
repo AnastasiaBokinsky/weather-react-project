@@ -74,6 +74,7 @@ export default function App() {
           <a
             class="source-link"
             href="https://github.com/AnastasiaBokinsky/weather-react-project.git"
+            ref="noreferrer"
             target="_blank"
           >
             Open-source code
