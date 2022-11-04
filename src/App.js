@@ -71,7 +71,11 @@ export default function App() {
           </div>
         </div>
         <small>
-          <a class="source-link" href="#" target="_blank">
+          <a
+            class="source-link"
+            href="https://github.com/AnastasiaBokinsky/weather-react-project.git"
+            target="_blank"
+          >
             Open-source code
           </a>
           <span> by Anastasiia Boiko</span>
