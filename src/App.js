@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Description from "./Description";
 import Forecast from "./Forecast";
@@ -74,7 +73,7 @@ export default function App() {
           <a
             class="source-link"
             href="https://github.com/AnastasiaBokinsky/weather-react-project.git"
-            ref="noreferrer"
+            rel="noreferrer"
             target="_blank"
           >
             Open-source code
